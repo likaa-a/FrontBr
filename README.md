@@ -22,3 +22,5 @@
 Группа: ЭФБО-05-25
 ## Текущий статус
 Создана базовая структура проекта.
+## https://likaa-a.github.io/FrontBr/
+GitHub Pages: https://likaa-a.github.io/FrontBr/
